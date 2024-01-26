@@ -3,7 +3,11 @@
 ## Overview
 
 This repository contains the documentation and code for a Bluetooth-controlled Tuk Tuk, an embedded systems project that allows remote control of a Tuk Tuk vehicle using a mobile app. The project leverages an ATMega328P microcontroller, various peripherals, and communication interfaces to achieve this functionality.
-
+<br />
+<br />
+<img width="400" alt="Screen Shot 2024-01-25 at 3 15 03 PM" src="https://github.com/anshuljg07/Bluetooth-Tuk-Tuk/assets/72891464/0b3847d9-765a-4676-8df6-13054946066f">
+<img width="500" alt="Screen Shot 2024-01-25 at 3 15 03 PM" src="https://github.com/anshuljg07/Bluetooth-Tuk-Tuk/assets/72891464/c2856166-a316-479f-90da-8abd64e953bf">
+<br />
 ## Table of Contents
 
 - Schematic
@@ -18,6 +22,7 @@ This repository contains the documentation and code for a Bluetooth-controlled T
 - Conclusion
 
 ## Schematic
+<img width="500" alt="Screen Shot 2024-01-25 at 3 15 03 PM" src="https://github.com/anshuljg07/Bluetooth-Tuk-Tuk/assets/72891464/f5d57d04-c806-4c6e-85b7-64662923b92d">
 
 ## Technical Details
 
