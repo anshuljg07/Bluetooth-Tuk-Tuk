@@ -74,5 +74,5 @@ This project was developed and is currently maintained by Anshul Gowda and Rafae
 ## Get in Contact:
  [Anshul Gowda's LinkedIn](https://www.linkedin.com/in/anshul-gowda)
 <br />
-Rafa Rangel de la Tejera's LinkedIn
+[Rafa Rangel de la Tejera's LinkedIn](https://www.linkedin.com/in/rafael-rangel-de-la-tejera/)
 <br />
